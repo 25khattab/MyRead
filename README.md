@@ -34,8 +34,8 @@ http://localhost:3000/search
 
 # Screens 
 
-[](./public/home.png)
-[](./public/search.png)
+![](./public/home.png)
+![](./public/search.png)
 
 # Backend Server
 
