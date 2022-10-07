@@ -14,7 +14,7 @@ const ShelfUpdateComponent = ({ book, updateShelf }: Props) => {
                 value={book.shelf ? book.shelf : "none"}
                 onChange={(e) => handleChange(e.target.value)}
             >
-                <option value="none" disabled>
+                <option disabled>
                     Move to...
                 </option>
                 <option value="currentlyReading">Currently Reading</option>
